@@ -1,0 +1,5 @@
+U:\Test\Payroll.exe
+U:\Test\Payroll.dll
+U:\Test\Payroll.deps.json
+U:\Test\Payroll.runtimeconfig.json
+U:\Test\Payroll.pdb

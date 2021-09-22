@@ -1,0 +1,122 @@
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csprojAssemblyReference.cache
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form1.resources
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
+U:\YEAR 11\YEAR 11\Computer Science\Task 4\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+E:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+E:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+E:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+E:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+E:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+E:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csprojAssemblyReference.cache
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form1.resources
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+E:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
+U:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+U:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+U:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+U:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+U:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+U:\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
+U:\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+U:\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+U:\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+U:\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+U:\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+U:\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form1.resources
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.AssemblyReference.cache
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form2.resources
+U:\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.AssemblyReference.cache
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form2.resources
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
+C:\Users\Cheri\Downloads\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form1.resources
+U:\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+U:\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+U:\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+U:\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+U:\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+U:\backupos\backupos\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.AssemblyReference.cache
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Invoice.resources
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form2.resources
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+U:\backupos\backupos\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.AssemblyReference.cache
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Invoice.resources
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form2.resources
+U:\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+U:\Payroll system\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+U:\Payroll system\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+U:\Payroll system\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+U:\Payroll system\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+U:\Payroll system\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+U:\Payroll system\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.AssemblyReference.cache
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.Invoice.resources
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.Form2.resources
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.Properties.Resources.resources
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.GenerateResource.cache
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+U:\Payroll system\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache

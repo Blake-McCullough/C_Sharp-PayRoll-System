@@ -1,0 +1,5 @@
+\\e4153s01sv001.blue.schools.internal\fsE4153S01-StudentFolders$\blake.mccullough\Desktop\Payroll.exe
+\\e4153s01sv001.blue.schools.internal\fsE4153S01-StudentFolders$\blake.mccullough\Desktop\Payroll.dll
+\\e4153s01sv001.blue.schools.internal\fsE4153S01-StudentFolders$\blake.mccullough\Desktop\Payroll.deps.json
+\\e4153s01sv001.blue.schools.internal\fsE4153S01-StudentFolders$\blake.mccullough\Desktop\Payroll.runtimeconfig.json
+\\e4153s01sv001.blue.schools.internal\fsE4153S01-StudentFolders$\blake.mccullough\Desktop\Payroll.pdb

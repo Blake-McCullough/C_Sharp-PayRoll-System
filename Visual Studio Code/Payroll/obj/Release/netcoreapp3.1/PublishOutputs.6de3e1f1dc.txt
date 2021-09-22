@@ -1,0 +1,5 @@
+U:\Payroll.exe
+U:\Payroll.dll
+U:\Payroll.deps.json
+U:\Payroll.runtimeconfig.json
+U:\Payroll.pdb
