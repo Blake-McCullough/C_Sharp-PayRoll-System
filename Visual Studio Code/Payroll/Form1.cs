@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Windows.Forms;
-//By Blake McCullough
-//https://github.com/Blake-McCullough
+//Made By Blake McCullough
+//Discord - Spoiled_Kitten#4911
+//Github - https://github.com/Blake-McCullough/
+//Email - privblakemccullough@protonmail.com
 namespace Payroll
 {
     //Editor will not load editing unless you temporarily deleted the public class Invoice and then retry
